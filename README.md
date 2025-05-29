@@ -11,3 +11,5 @@ Cover Letter Builder: No more staring at a blank page. Using Gemini AI, CareerWi
 AI-Powered Interview Preparation: Prepare for interviews like a pro with automatically generated, role-specific questions. CareerWise simulates real interview scenarios and provides feedback to boost your confidence and performance.
 
 CareerWise is more than just a tool—it’s your smart companion in achieving career success. Whether you're entering the workforce, making a career change, or striving for your next big role, CareerWise provides the guidance, automation, and intelligence to help you get there faster.
+
+IT Industry Insights & Trends: Make informed career decisions with CareerWise’s domain-specific insights. Get data-driven analysis on various IT domains and subdomains, including growth rates, emerging trends, in-demand skills, and future outlook—empowering you to align your career path with high-growth opportunities.
