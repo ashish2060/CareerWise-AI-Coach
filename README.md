@@ -1,4 +1,4 @@
-Project Description:
+Project Description:-
 
 CareerWise is an intelligent AI-powered career coach designed to streamline and enhance your job-seeking journey using cutting-edge generative technology. Built with the latest advancements in AI, including Google's Gemini model, CareerWise offers a complete suite of career development tools tailored to help users stand out in today's competitive job market.
 
